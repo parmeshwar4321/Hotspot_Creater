@@ -2,5 +2,10 @@
 
 ## first of all check your wife interface 
 
-```ngmeta  iwconfig 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
