@@ -4,6 +4,4 @@
 
 
 ## first of all check your wife interface 
-
 ```  iwconfig 
-```
