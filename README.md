@@ -10,7 +10,7 @@ user@user-laptop_name:~$ iwconfig
 
 
 ```
-user@user-laptop_name:~$ sudo apt-get install hostapd git build-essentail
+user@user-laptop_name:~$ sudo apt-get install hostapd git build-essential
 ```
 ## after that clone following  repositery in your system
 
